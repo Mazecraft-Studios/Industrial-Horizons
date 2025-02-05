@@ -1,12 +1,15 @@
-# Industrial-Horizons
-Industrial Horizons combines mechanical innovation, advanced storage systems, and interstellar exploration for a truly limitless experience.
-
-![title1](https://cdn.modrinth.com/data/cached_images/b4b112f4992bd30f75f75a2e0853669cb7637162.png)
-
 # **Industrial Horizons**
+
+![title](https://cdn.modrinth.com/data/cached_images/d28fb10c6424c5ac93c679fa0ddcc282073b3764_0.webp)
+
+
+
+
 **Unleash your creativity and dominate automation** with **Industrial Horizons**! This [Create](https://modrinth.com/mod/create-fabric)-powered modpack lets you dive into a world where engineering meets imagination. From **automating everything** to **mining everything**, and even embarking on an **interplanetary journey**, the possibilities are endless.
 
-[![Discord ID](https://img.shields.io/badge/Discord%20ID-pixel9426-darkblue?style=for-the-badge)](https://discordapp.com/users/pixel9426) ![Discord](https://img.shields.io/discord/1332989818975551550?style=for-the-badge&logo=discord&label=Discord) [![Enviroment](https://img.shields.io/badge/Enviroment-Client-purple?style=for-the-badge)](https://example.com) ![Modrinth Downloads](https://img.shields.io/modrinth/dt/ZKwcjthq?style=for-the-badge&logo=modrinth&color=green) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1187362?style=for-the-badge&logo=curseforge)
+<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png"> <a href="https://discord.gg/HDyGpMfzAB" target="_blank">
+    <img alt="discord-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png">
+</a>
 
 
 ### 📥 Installation
@@ -19,25 +22,25 @@ Got an idea for a new mod or datapack? DM me on Discord to get involved in shapi
 
 ## **Frequently Asked Questions**  
 
-### 1. **Is Industrial Horizons multiplayer compatible?**  
+#### 1. **Is Industrial Horizons multiplayer compatible?**  
 Yes, it is! In fact, I recommend playing it in multiplayer over singleplayer for a more enjoyable experience.  
 
 ---
 
-### 2. **Will there be any quests in the future?**  
+#### 2. **Will there be any quests in the future?**  
 I am planning to add **FTB Quests** and **FTB Teams** to the modpack in the future. However, this won't happen anytime soon because I have exams right now.  
 
 ---
 
-### 3. **How frequently will the modpack be updated?**  
+#### 3. **How frequently will the modpack be updated?**  
 The modpack will be updated as long as I find interesting mods that:  
 - Do not overlap in functionality  
 - Maintain the industrial revolution vibe  
 
 ---
 
-### 4. **Can I recommend mods for the pack?**  
-Absolutely! Join my [Discord server](insert link) or just DM me directly with your suggestions.
+#### 4. **Can I recommend mods for the pack?**  
+Absolutely! Join my [Discord server](https://discord.gg/HDyGpMfzAB) or just DM me directly with your suggestions.
 
 ## Modslist
 
@@ -81,5 +84,4 @@ Absolutely! Join my [Discord server](insert link) or just DM me directly with yo
 - [Create Trimmed](https://modrinth.com/mod/create-trimmed): Simplify and optimize your Create-based designs with refined tools and utilities.
 
 </details>
-
 
